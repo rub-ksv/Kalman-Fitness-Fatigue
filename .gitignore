@@ -1,3 +1,9 @@
+# Matlab data file
+*.mat
+
+# Compiled simulink
+slprj/sim/
+
 # Compiled class file
 *.class
 
